@@ -1,0 +1,16 @@
+Criar projeto via linha de comando:
+
+ - dotnet new console -o HelloWorld
+ - ou dentro da pasta, digite: dotnet new console
+
+Compilar codigo fonte:
+ - dotnet build
+
+Executar o aquivo compilado
+ - dotnet run
+ - dotnet run --environment=development
+
+Limpar arquivos compilados
+ - dotnet clean
+
+
